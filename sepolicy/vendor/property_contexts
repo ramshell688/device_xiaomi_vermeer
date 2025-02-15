@@ -18,4 +18,5 @@ persist.vendor.hostprocess.                       u:object_r:vendor_touch_hostpr
 persist.vendor.touchfeature.                      u:object_r:vendor_touchfeature_prop:s0
 ro.vendor.touchfeature.type                       u:object_r:vendor_touchfeature_prop:s0
 ro.vendor.touch.touchscheduler.enable             u:object_r:vendor_touchfeature_prop:s0
+vendor.panel.                                     u:object_r:vendor_panel_info_prop:s0
 vendor.touchfeature.                              u:object_r:vendor_touchfeature_prop:s0
